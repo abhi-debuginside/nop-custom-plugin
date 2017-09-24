@@ -1,0 +1,12 @@
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.CoreCompileInputs.cache
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

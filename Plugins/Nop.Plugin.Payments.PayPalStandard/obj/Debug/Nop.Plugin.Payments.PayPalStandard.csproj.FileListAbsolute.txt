@@ -1,0 +1,13 @@
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csprojResolveAssemblyReference.cache
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

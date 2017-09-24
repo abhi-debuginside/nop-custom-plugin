@@ -1,0 +1,14 @@
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+D:\Projects\Code Testing\Nop Commerece\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
+D:\Projects\Code Testing\Nop Commerece\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb
